@@ -1,0 +1,16 @@
+title: Tunless
+description: VPN подписка - быстро, безопасно и анонимно
+theme: jekyll-theme-minimal
+url: "https://michael-k-cloud.github.io/Tunless"
+baseurl: "/Tunless"
+
+# Navigation
+nav_links:
+  - title: Главная
+    url: /Tunless/
+  - title: Инструкция
+    url: /Tunless/setup.html
+  - title: Пользовательское соглашение
+    url: /Tunless/terms.html
+  - title: Политика конфиденциальности
+    url: /Tunless/privacy.html
