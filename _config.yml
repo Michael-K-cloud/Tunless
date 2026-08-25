@@ -10,7 +10,9 @@ nav_links:
     url: /Tunless/
   - title: Инструкция
     url: /Tunless/setup.html
-  - title: Пользовательское соглашение
+  - title: Каринг
+    url: /Tunless/karing.html
+  - title: Соглашение
     url: /Tunless/terms.html
-  - title: Политика конфиденциальности
+  - title: Конфиденциальность
     url: /Tunless/privacy.html
