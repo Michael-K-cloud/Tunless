@@ -43,7 +43,7 @@ title: Инструкция по настройке
 
 - Скачиваем **Karing** → [Скачать в AppStore](https://apps.apple.com/ru/app/karing/id6472431552)
 - Скачиваем **V2Box** → [Скачать в AppStore](https://apps.apple.com/app/v2box-v2ray-client/id6448898396)
-- Скачиваем **V2RayTUN** → [С��ачать в AppStore](https://apps.apple.com/app/v2raytun/id6476628951)
+- Скачиваем **V2RayTUN** → [Скачать в AppStore](https://apps.apple.com/app/v2raytun/id6476628951)
 - Скачиваем **Hiddify** → [Скачать в AppStore](https://apps.apple.com/app/hiddify/id6596055417)
 - Скачиваем **Happ** → [Скачать в AppStore](https://apps.apple.com/app/happ/id6596055417)
 
